@@ -9,7 +9,6 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="50" height="50"/>
    <img src="https://skillicons.dev/icons?i=ktor" alt="Ktor" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/>
 </p>
 
