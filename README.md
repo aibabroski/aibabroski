@@ -1,4 +1,4 @@
-# Just aiba broski
+# Just aiba
 
 **Android Developer**
 
