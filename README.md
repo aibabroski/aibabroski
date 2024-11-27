@@ -1,4 +1,3 @@
-# Just aiba
 
 **Android Developer**
 
