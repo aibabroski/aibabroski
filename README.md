@@ -12,7 +12,6 @@
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="60" height="60"/> 
   <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="60" height="60"/> 
   <img src="https://skillicons.dev/icons?i=c" alt="C" width="60" height="60"/> 
-  <img src="https://skillicons.dev/icons?i=cplusplus" alt="C++" width="60" height="60"/> 
   <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="60" height="60"/> 
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="60" height="60"/> 
   <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="60" height="60"/> 
