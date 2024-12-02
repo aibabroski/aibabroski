@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="60" height="60"/> 
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="60" height="60"/> 
   <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="60" height="60"/> 
-  <img src="https://skillicons.dev/icons?i=intellij" alt="IntelliJ IDEA" width="60" height="60"/> 
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="60" height="60"/> 
   <img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" width="60" height="60"/> 
 </p>
 
