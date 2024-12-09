@@ -1,5 +1,5 @@
 
-**Android Developer**
+**Android and Full Stack Developer**
 
 ### 💻 Tech Skills:
 <p> 
