@@ -1,5 +1,5 @@
 
-**Android and Full Stack Developer**
+**Android and Kotlin Stack Developer**
 
 ### 💻 Tech Skills:
 <p> 
