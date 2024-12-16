@@ -1,4 +1,4 @@
-**Android and Kotlin Developer**
+**Kotlin Android Developer**
 
 ### 💻 Tech Skills:
 <p> 
