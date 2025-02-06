@@ -15,7 +15,7 @@
 </p>
 
 ### 🚀 LeetCode:
-- [LeetCode Profile](https://leetcode.com/u/mr_aiba/)
+- [LeetCode Profile](https://leetcode.com/aibabroski/)
 
 ### 🌐 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/aibekmurat)
