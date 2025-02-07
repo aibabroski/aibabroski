@@ -11,7 +11,6 @@
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="60" height="60"/>    
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="60" height="60"/> 
   <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="60" height="60"/> 
-  <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="60" height="60"/> 
 </p>
 
 ### 🚀 LeetCode:
