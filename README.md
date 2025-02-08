@@ -9,7 +9,6 @@
   <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="60" height="60"/> 
   <img src="https://skillicons.dev/icons?i=ktor" alt="Ktor" width="60" height="60"/> 
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="60" height="60"/>    
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="60" height="60"/> 
   <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="60" height="60"/> 
 </p>
 
