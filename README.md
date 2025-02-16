@@ -17,5 +17,4 @@
 
 ### 🌐 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/aibekmurat)
-- [GitHub](https://github.com/aibabroski)
 - [Email](mailto:mr.aibek.developer@gmail.com)
