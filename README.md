@@ -1,4 +1,4 @@
-# **Android and Kotlin Developer Enthusiast** 👋
+# **Android and Full Stack Developer Enthusiast** 
 
 ### 💻 Tech Skills:
 <p> 
@@ -18,10 +18,10 @@
 #### **0. [aibachem](https://github.com/aibabroski/aibachem.git)**  
 📌 *A Chemistry app where students can learn anything about chemistry and prepare for exams. Currently on developing and waiting for design and backend*  
 ✅ **Tech Stack**:
-  *Android*: Kotlin, Jetpack Compose, Ktor Client, Room, Kotlin MultiPlatform
-  *iOS*: SwiftUI, Kotlin MultiPlatform
-  *Backend*: Kotlin, Ktor Server
-  *Frontend*: VueJS or Kotlin MultiPlatform
+  **Android*: Kotlin, Jetpack Compose, Ktor Client, Room, Kotlin MultiPlatform*
+  **iOS*: SwiftUI, Kotlin MultiPlatform*
+  **Backend*: Kotlin, Ktor Server*
+  **Frontend*: VueJS or Kotlin MultiPlatform*
 ✅ **Key Features**: Full stack application, Auth, Realtime DB, Free app
 
 #### **1. [Color Picker](https://github.com/aibabroski/color_picker.git)**  
