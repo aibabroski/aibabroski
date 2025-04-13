@@ -1,7 +1,5 @@
 # **Android and Full Stack Developer Enthusiast** 
 
----
-
 ### 💻 Tech Skills:
 <p> 
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60"/> 
