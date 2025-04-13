@@ -24,14 +24,6 @@
 
 #### **4. [FarmBuy](https://github.com/aibabroski/FarmBuy.git)**  
 
-#### **5. [PUBG weapon names](https://github.com/aibabroski/pubg_weapon_names.git)**  
-
-#### **6. [AuthDemoApp](https://github.com/aibabroski/AuthDemoApp.git)**  
-
-#### **7. [Woof](https://github.com/aibabroski/woof_app.git)**  
-
-#### **8. [Weather App](https://github.com/aibabroski/WeatherApp.git)**  
-
 ---
 
 ### 🏆 LeetCode
