@@ -1,6 +1,6 @@
 # **Android and Full Stack Developer Enthusiast** 
 
-### 💻 Tech Skills:
+### Tech Skills:
 <p> 
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60"/> 
   <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="60" height="60"/> 
@@ -12,10 +12,10 @@
 
 ---
 
-### 🏆 LeetCode
+### LeetCode
 - [LeetCode Profile](https://leetcode.com/aibabroski/)  
 
 ---
 
-### 🌐 Connect with Me
+### Social media and email
 📫 [LinkedIn](https://www.linkedin.com/in/aibekmurat) | [Email](mailto:mr.aibek.developer@gmail.com)  
