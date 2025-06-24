@@ -18,4 +18,5 @@
 ---
 
 ### Social media and email
-📫 [LinkedIn](https://www.linkedin.com/in/aibekmurat) | [Email](mailto:mr.aibek.developer@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/aibekmurat)
+[Email](mailto:mr.aibek.developer@gmail.com)  
