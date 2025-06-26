@@ -1,4 +1,4 @@
-# **Chemistry Teacher and Full Stack Developer Enthusiast** 
+# **Full Stack Developer Enthusiast** 
 
 ### Tech Skills:
 <p> 
