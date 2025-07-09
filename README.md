@@ -1,4 +1,4 @@
-# **Software Enggineer** 
+# **Software Engineer** 
 
 ### Tech Skills:
 <p> 
