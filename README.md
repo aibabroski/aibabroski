@@ -10,10 +10,6 @@
   <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="60" height="60"/>
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,vue,ktor,androidstudeio,android,bash" height="40"/>
-</p>
-
 ### LeetCode
 - [LeetCode Profile](https://leetcode.com/aibabroski/)  
 
@@ -22,4 +18,4 @@
 - [Email](mailto:mr.aibek.developer@gmail.com)  
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syerasyl&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aibabroski&layout=compact&theme=tokyonight&hide_border=true)
