@@ -10,13 +10,9 @@
   <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="60" height="60"/>
 </p>
 
----
-
 ### LeetCode
 - [LeetCode Profile](https://leetcode.com/aibabroski/)  
 
----
-
-### Social media and email
+### Social media and Email
 - [LinkedIn](https://www.linkedin.com/in/aibekmurat)
 - [Email](mailto:mr.aibek.developer@gmail.com)  
