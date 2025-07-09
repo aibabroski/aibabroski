@@ -1,4 +1,4 @@
-# **Full Stack Developer Enthusiast** 
+# **Software Enggineer** 
 
 ### Tech Skills:
 <p> 
@@ -9,13 +9,12 @@
   <img src="https://skillicons.dev/icons?i=ktor" alt="Ktor" width="60" height="60"/> 
   <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="60" height="60"/>
 </p>
-
+---
 ### LeetCode
 - [LeetCode Profile](https://leetcode.com/aibabroski/)  
-
+---
 ### Social media and Email
 - [LinkedIn](https://www.linkedin.com/in/aibekmurat)
 - [Email](mailto:mr.aibek.developer@gmail.com)  
-
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aibabroski&layout=compact&theme=tokyonight&hide_border=true)
