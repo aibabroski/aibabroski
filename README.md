@@ -1,4 +1,4 @@
-# **Senior Software Engineer Student** 
+# **Software Developer Student** 
 
 ### Tech Skills:
 <p> 
