@@ -10,8 +10,6 @@
   <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="60" height="60"/>
 </p>
 
----
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aibabroski&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 ### LeetCode
