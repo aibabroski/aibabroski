@@ -1,4 +1,4 @@
-# **Software Developer Student** 
+# **Software Developer** 
 
 ### Tech Skills:
 <p> 
