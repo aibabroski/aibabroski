@@ -2,7 +2,7 @@
 
 ### Tech Skills:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,vue,ktor,bash" alt="Tech Skills" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,vue,java,ktor,bash" alt="Tech Skills" />
 </p>
 
 ---
