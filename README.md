@@ -1,15 +1,9 @@
 # **Software Developer** 
 
 ### Tech Skills:
-<p> 
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60"/> 
-  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="60" height="60"/> 
-  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" width="60" height="60"/> 
-  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="60" height="60"/> 
-  <img src="https://skillicons.dev/icons?i=ktor" alt="Ktor" width="60" height="60"/> 
-  <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="60" height="60"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,vue,ktor,bash" alt="Tech Skills" />
 </p>
-
 
 ---
 ### LeetCode
